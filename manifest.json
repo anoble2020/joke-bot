@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "jokebot",
+    "version": "1.0",
+    "description": "Tells a random joke",
+    "icons": {
+        "128": "joke.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "joke.png"
+    }
+}
